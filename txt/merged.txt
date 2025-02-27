@@ -2593,88 +2593,257 @@ Test,#genre#
 
 
 
-央视,#genre#
-CCTV-1,rtp://239.3.1.129:8008
-CCTV-2,rtp://239.3.1.60:8084
-CCTV-3,rtp://239.3.1.172:8001
-CCTV-4,rtp://239.3.1.105:8092
-CCTV-5,rtp://239.3.1.173:8001
-CCTV-6,rtp://239.3.1.174:8001
-CCTV-7,rtp://239.3.1.61:8104
-CCTV-8,rtp://239.3.1.175:8001
-CCTV-9,rtp://239.3.1.62:8112
-CCTV-10,rtp://239.3.1.63:8116
-CCTV-11,rtp://239.3.1.152:8120
-CCTV-12,rtp://239.3.1.64:8124
-CCTV-13,rtp://239.3.1.124:8128
-CCTV-14,rtp://239.3.1.65:8132
-CCTV-15,rtp://239.3.1.153:8136
-CCTV-16,rtp://239.3.1.184:8001
-CCTV-17,rtp://239.3.1.151:8144
-CCTV-4K,rtp://239.3.1.245:2000
-中文欧洲,rtp://239.3.1.213:4220
-中文美洲,rtp://239.3.1.214:4220
-体育赛事,rtp://239.3.1.130:8004
-中国教育,rtp://239.3.1.57:8152
-环球新闻,rtp://239.3.1.215:4220
-环球纪录,rtp://239.3.1.216:4220
-环球西语,rtp://239.3.1.217:4220
-环球阿语,rtp://239.3.1.219:4220
-环球法语,rtp://239.3.1.218:4220
-环球俄语,rtp://239.3.1.220:4220
+免费使用规则,#genre#
+本站资源免费使用，严禁商业性买卖！,https://error.stream-link.org/code/000
 
-卫视,#genre#
-北京卫视,rtp://239.3.1.241:8000
-东方卫视,rtp://239.3.1.136:8032
-湖南卫视,rtp://239.3.1.132:8012
-浙江卫视,rtp://239.3.1.137:8036
-江苏卫视,rtp://239.3.1.135:8028
-江西卫视,rtp://239.3.1.123:8164
-河北卫视,rtp://239.3.1.148:8072
-深圳卫视,rtp://239.3.1.134:8020
-湖北卫视,rtp://239.3.1.138:8044
-天津卫视,rtp://239.3.1.148:8072
-安徽卫视,rtp://239.3.1.211:8064
-山东卫视,rtp://239.3.1.209:8052
-广东卫视,rtp://239.3.1.142:8048
-贵州卫视,rtp://239.3.1.149:8076
-辽宁卫视,rtp://239.3.1.210:8056
-重庆卫视,rtp://239.3.1.122:8160
-龙江卫视,rtp://239.3.1.133:8016
-吉林卫视,rtp://239.3.1.240:8172
-东南卫视,rtp://239.3.1.156:8148
+Astro,#genre#
+華麗(翡翠台),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp9178ugtg&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Astro_Hua_Hee_Dai,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp0316jzns&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Astro_iQIYI,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp4214bpfq&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+八度空間,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp3643bsna&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
 
-地方,#genre#
-北京新闻,rtp://239.3.1.159:8000
-北京财经,rtp://239.3.1.115:8000
-北京生活,rtp://239.3.1.117:8000
-北京文艺,rtp://239.3.1.242:8000
-北京影视,rtp://239.3.1.158:8000
-北京国际,rtp://239.3.1.235:8000
-体育休闲,rtp://239.3.1.243:8000
-纪实科教,rtp://239.3.1.115:8000
-卡酷少儿,rtp://239.3.1.189:8000
-金鹰纪实,rtp://239.3.1.58:8156
-乐游频道,rtp://239.3.1.207:8001
-都市剧场,rtp://239.3.1.203:8001
-动漫秀场,rtp://239.3.1.202:8001
-法治天地,rtp://239.3.1.204:8001
-生活时尚,rtp://239.3.1.206:8001
-金色学堂,rtp://239.3.1.208:8001
-游戏风云,rtp://239.3.1.205:8001
-魅力足球,rtp://239.3.1.201:8001
-茶友频道,rtp://239.3.1.165:8001
-快乐垂钓,rtp://239.3.1.164:8001
-睛彩竞技,rtp://239.3.1.125:8001
-睛彩篮球,rtp://239.3.1.126:8001
-睛彩青少,rtp://239.3.1.127:8001
-睛彩场舞,rtp://239.3.1.128:8001
-中国交通,rtp://239.3.1.188:8001
-华数高清,rtp://239.3.1.236:2000
-超清电影,rtp://239.3.1.114:8001
+TVB,#genre#
+翡翠台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb5243dcfv&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+翡翠台(測試),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb2342vqvk&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+翡翠台(FLV-H265測試),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=any5817ssqg&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+TVB_Plus,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb6457wrqs&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+無綫新聞台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb4182ujuw&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+翡翠台.新加坡_粵語(tvbanywhere),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb4972hgtu&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+翡翠台.新加坡_國語(tvbanywhere),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb5515dkff&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+TVB生活台(tvbanywhere),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb8528pmdb&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+翡翠台.澳新(tvbanywhere),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb5742fsbc&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+翡翠台.英國(tvbanywhere),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb4185qung&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+翡翠台.美加東岸(tvbanywhere),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb3106aafp&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+翡翠台.美加西岸(tvbanywhere),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb4374tvgm&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+無綫新聞台(tvbanywhere),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb8800kqmb&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+翡翠1台(北美),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb7556fhcw&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+翡翠綜合台J1(北美),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb6303njrq&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+翡翠劇集台(北美),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb5641kkue&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+明珠劇集台(北美),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb7757pagg&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+翡翠娛樂台(北美),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb9243wdgu&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+TVB娛樂新聞台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb9218euke&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
 
-购物,#genre#
-央广购物,rtp://239.3.1.223:8001
-时尚购物,rtp://239.3.1.181:8001
-家有购物,rtp://239.3.1.185:8001
-聚鲨环球,rtp://239.3.1.179:8001
+香港電視娛樂,#genre#
+now新聞台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now2603fwbf&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+now財經台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now6194dqfd&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+東森亞洲新聞,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now5734gdfp&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+東森亞洲衛視,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now3318sguh&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+ViuTV96,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now4388muab&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+ViuTV99,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now7803rskn&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+
+RTHK,#genre#
+港台电视31,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=hkt4383kbuz&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+港台电视32,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=hkt5551svnj&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+港台电视33(CCTV_1),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=hkt7908gtte&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+港台电视34(CGTN_Doc),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=hkt7486eqhv&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+港台电视35(CGTN_News),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=hkt9854keeu&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+
+奇妙電視,#genre#
+76國際財經,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=hkt0222egss&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+77開電視,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=hkt2239zemh&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+78資訊台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=hkt5656vfqn&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+
+中國,#genre#
+中央綜合台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn4466gavt&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+中文國際台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn9570mstb&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+中央新聞台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn1073empu&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+
+鳳凰衛視,#genre#
+鳳凰衛視資訊台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now2684jeuq&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+鳳凰衛視中文台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now6892betb&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+鳳凰衛視香港台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now6681etsf&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+
+電影&劇集,#genre#
+viu劇集台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now9476mvpd&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+now華劇台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now0850rgeu&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+now紫金國際,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now9377uvws&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+TVB星河台(粵語),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp5537eeqj&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+TVB星河台(國語),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp4277euuk&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+TVB千禧經典台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp0152wtee&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Astro天映頻道(粵語),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp0412magk&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Astro天映頻道(國語),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp6130gwuw&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+天映頻道(新加坡),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp2791seem&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+HBO_Asia,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now3581bavh&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+HBO_Family_Asia,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now0633ahbc&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+HBO_Hits_Asia,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now1711dnfh&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+HBO_Signature_Asia,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now6544psph&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Cinemax_Asia,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now2552kprw&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+MytvSuper_Free,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb9721hqpq&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+TVB亞洲劇台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb6948zpvz&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+TVB華語劇台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb0898advh&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+美亞電影台(粵語),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb4447wbbu&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+美亞電影台(國語),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb2057tmtf&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+功夫台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb0968snhq&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+now爆谷電影台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now9263ewcn&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+now爆谷星影台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now5456htvd&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Movie_Movie,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now3589dtgk&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Animax,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb5418bkej&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+AXN,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb8968mvrs&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+tvN_Asia,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb7150vgbs&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+ROCK_Action,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb9288qrpc&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+ROCK_Entertainment,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb3518bsgm&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+KIX,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb3863rnbg&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+PopC,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb1753chws&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Star_Movies,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov8435avrt&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Star_Movies_Select,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov4596ebfd&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Sony_PIX_HD,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov6380hbkh&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+USA_Network,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng5156qpvz&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+CinemaWorld電影,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov2720pfuj&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+靖天電影台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov3827thpc&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+影迷數位電影台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov1899khaw&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+amc電影台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov6646bmvt&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+
+新加坡,#genre#
+新加坡5頻道,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp4753rmcg&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+新加坡8頻道,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp6693nrtf&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+新加坡U頻道,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp5568uggw&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Hub都會,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp0036bcen&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Hub娛家,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp4169rgma&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+
+體育休閒,#genre#
+Now_Sports_Prime,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn0884nmhw&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Now_Sports_1,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn1607wmvu&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Now_Sports_2,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn5996bwqr&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Now_Sports_3,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn6877rjkw&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Now_Premier_League_1,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn5523dcrn&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Now_Premier_League_2(賽事時開啟),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn6229fvwb&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Now_Premier_League_3(賽事時開啟),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn9562vudc&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Now_Premier_League_4(賽事時開啟),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn8990jwtm&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Now_Premier_League_5(賽事時開啟),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn3189argk&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+博斯魅力台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn3408qzse&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+博斯網球台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn4246sqaj&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+愛爾達體育1台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn4320nshf&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Astro_Arena(馬來西亞🇲🇾),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt0039mgbc&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Astro_Arena_2(馬來西亞🇲🇾),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt3718beft&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Astro_Badminton(馬來西亞🇲🇾),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt0647jsuw&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+beIN_SPORTS(馬來西亞🇲🇾),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt2081eqtp&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+beIN_SPORTS_2(馬來西亞🇲🇾),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt1668apdm&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+beIN_SPORTS_3(馬來西亞🇲🇾),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt9593wwwb&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+SPOTV(馬來西亞🇲🇾),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt7791pwdr&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+SPOTV_2(馬來西亞🇲🇾),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt8649fqmd&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+beIN_SPORTS_XTRA(美國🇺🇸),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt1867czzw&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Tennis_Channel(美國🇺🇸),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt8261tvjf&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Unbeaten(美國🇺🇸),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt1764wuss&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Eurosport_1(法國🇫🇷),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt0292scpt&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Eurosport_2(法國🇫🇷),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt1806gpeh&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Eurosport_1(意大利🇮🇹),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt5479uvhr&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Eurosport_2(意大利🇮🇹),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt2167nsnt&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Eurosport_1(英國🇬🇧),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt3669hswq&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Eurosport_2(英國🇬🇧),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt4054enzt&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Peacock_Premier_League_TV,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt9335uqvt&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Hub_Premier_1(新加坡🇸🇬),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt9107htjk&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Hub_Sports_1(新加坡🇸🇬),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt5591hsak&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Hub_Sports_2(新加坡🇸🇬),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt6710efcv&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Sky_Sport_Arena(意大利🇮🇹),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky9762udbw&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Sky_Sport_Calcio(意大利🇮🇹),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky3313rbfp&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Sky_Sport_F1(意大利🇮🇹),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky3184wdvk&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Sky_Sport_Golf(意大利🇮🇹),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky7714zacm&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Sky_Sport_Max(意大利🇮🇹),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky5760fqav&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Sky_Sport_MotoGP(意大利🇮🇹),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky4867fkam&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Sky_Sport_NBA(意大利🇮🇹),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky1756hwre&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Sky_Sport_Tennis(意大利🇮🇹),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky7580maqh&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Sky_Sport_Uno(意大利🇮🇹),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky8214aagh&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Sky_Sport_24(意大利🇮🇹),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky0769wcue&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Sky_Sport_Mix(德國🇩🇪),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky4036cddm&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Sky_Sport_News(德國🇩🇪),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky8905bfef&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Sky_Sport_Premier_League(德國🇩🇪),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky3010fagk&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Sky_Sport_Top_Event(德國🇩🇪),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky2864qrnf&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+TNT_Sports_1(英國🇬🇧),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky3160dwmh&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+TNT_Sports_2(英國🇬🇧),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky5563wdbs&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+TNT_Sports_3(英國🇬🇧),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky4259kfwr&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+TNT_Sports_4(英國🇬🇧),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky4260zrbe&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+
+News,#genre#
+ABC_Australia,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng2343aczg&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+AL_Jazeera_English,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng2059nggq&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+BBC_World_News,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng4500mdfj&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Bloomberg_Asia,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng8402hzdc&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+CBN_News,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng7575rmmj&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+CBS_News,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng2991gqdm&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+CBS_News_Los_Angeles,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng0517qnts&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+CNA_News,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng1933dchm&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+CNBC_Asia,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng7027sang&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+CNN_International,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng7346jsqm&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+DW_News,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng4427nzgd&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Fox_News_Now,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng4318vatw&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Fox_News,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng6850tbwz&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+France_24_English,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng2356fwga&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+NBC_News_Now,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng5818vmbc&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+KNBC_Los_Angeles,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng0306requ&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+NTV_Germany,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng1219jphp&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Russia_Today,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng1492pmet&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+SKY_News,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng3246vapp&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+tagesschau24,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng0282zzuc&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+TRT_World,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng0650czbv&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+WELT,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng3983mmbb&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+ZDF_info,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng9765jgch&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+
+日韓,#genre#
+연합뉴스TV_로고(韓聯社新聞),https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng1633epbk&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+one,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng8772fett&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+KBS_World,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng9543mwzv&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+NHK_World_Japan,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng1463rdba&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+NHK_World_Premium,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng6111zgbd&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+
+休閒&記錄,#genre#
+動物星球,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng0424gwqw&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+AnimalPlanet_HD,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng9134pazj&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Discovery_Channel_HD,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng0234fwee&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+NatGeo_Wild_HD,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng1451vqhk&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+National_Geographic_HD,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng1397teck&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Sony_BBC_Earth_HD,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng0561auqv&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Star_Life_HD,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng6821urvf&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+TravelXP_HD,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng0085tavq&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+TLC_HD,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng0725dcns&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Asian_Food_Network,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng7161cdtb&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+BBC_Earth_Asia,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng4756jwut&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+BBC_Lifestyle_Asia,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng7828wjjb&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Discovery_Asia,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng9805uhdu&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Discovery_Science_Asia,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng6377mpkd&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+DMAX_Asia,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng9880nmqr&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Travel_Channel_Asia,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng0487ksqe&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+愛爾達生活旅遊台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov5476anjm&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+亞洲旅遊台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov4729gdfu&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Global_Trekker探索世界,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov1704qbng&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Lifetime,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov0054qfmt&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+MTV_Live,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov2110pfzq&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+History歷史頻道,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov9091srcf&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+CI_罪案偵查頻道,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov7060ncea&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+幸福空間居家台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov2917esca&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Love_Nature,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov9088ptkw&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+
+台灣,#genre#
+東森新聞,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=twn0147dcmk&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+東森財經新聞,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=twn9206ejde&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+中天新聞,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=twn4767wzrk&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+華視新聞,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=twn3183fmbp&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+中視新聞,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=twn4163fkdb&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+民視新聞,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=twn6684shqm&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+寰宇新聞,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=twn4736vpfe&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+寰宇台灣,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=twn2115zcgd&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+寰宇財經新聞,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=twn1592hbcq&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+TVBS新聞,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=twn6711wdjp&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+TVBS,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=twn1373rchb&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+
+台灣綜合綜藝,#genre#
+三立綜合台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov5026fdkj&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+愛爾達娛樂台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov9094hndt&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+TVBS綜藝台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov4792feqt&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+TVBS台劇台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov5555jtmc&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+TVBS精彩台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov8820jmkb&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+TVBS歡樂台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov8081atvn&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+
+兒童頻道,#genre#
+TVB兒童台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov3317wjbk&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+東森幼幼,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov3574jvkz&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+動畫世界頻道,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov6562wejz&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+尼克兒童頻道,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov2212krcg&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Nick_Jr._兒童頻道,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov8727sqea&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Dream_Works夢工廠動畫,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov6826ubuu&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+MOMO親子台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov7882pdzg&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Cartoonito_Asia,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov3134adez&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+CBeebies_Asia,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov6599nhpc&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Moonbug,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov7514adge&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+達文西頻道,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov4138gjwz&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+ELTV生活英語台,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov5240kcjd&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+Live_ABC_互動英語頻道,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov7274bwqc&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b

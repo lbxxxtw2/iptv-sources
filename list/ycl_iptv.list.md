@@ -62,4 +62,4 @@
 | 56 | Hub Sports 1(新加坡🇸🇬) | sc2025.stream-link.org | <https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt4708nhgj&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b> |
 | 57 | Hub Sports 2(新加坡🇸🇬) | sc2025.stream-link.org | <https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt2753stub&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b> |
 
-Updated at **Sat Mar 01 2025 05:16:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 01 2025 06:24:01 GMT+0000 (Coordinated Universal Time)**

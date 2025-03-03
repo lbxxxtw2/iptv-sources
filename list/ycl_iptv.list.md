@@ -48,4 +48,4 @@
 | 42 | ZDF info | sc2025.stream-link.org | <https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng3880jpvg&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b> |
 | 43 | 연합뉴스TV_로고(韓聯社新聞) | sc2025.stream-link.org | <https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng2660bhfh&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b> |
 
-Updated at **Mon Mar 03 2025 13:25:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Mar 03 2025 14:17:13 GMT+0000 (Coordinated Universal Time)**

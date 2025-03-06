@@ -1,3 +1,329 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="系統維護" tvg-name="系統維護" tvg-logo="https://content.stream-link.org/images/500.png" group-title="500",系統維護(稍後刷新)
-https://error.stream-link.org/code/tg_500
+#EXTM3U x-tvg-url="https://content.stream-link.org/epg/e791cb61-c75c-4eae-bf4a-f60b73a1aaf3/guide.xml"
+#EXTINF:-1 tvg-id="免费使用规则" tvg-name="免费使用规则" tvg-logo="https://content.stream-link.org/images/sl.png" group-title="免费使用规则",本站资源免费使用，严禁商业性买卖！
+https://error.stream-link.org/code/000
+#EXTINF:-1 tvg-id="Jade.my" tvg-name="華麗(翡翠台)" tvg-logo="https://content.stream-link.org/images/astro_jade.png" group-title="Astro",華麗(翡翠台)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp4339zjcj&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="TVBJade" tvg-name="翡翠台(字幕粵語)" tvg-logo="https://content.stream-link.org/images/tvb_jade_hk.png" group-title="TVB",翡翠台(粵語)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb7162dhfm&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="TVBJade" tvg-name="翡翠台(字幕原音)" tvg-logo="https://content.stream-link.org/images/tvb_jade_hk.png" group-title="TVB",翡翠台(原音)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb3618zbec&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVB Plus(字幕原音)" tvg-logo="https://content.stream-link.org/images/tvb_plus.png" group-title="TVB",TVB Plus(原音)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb0947kdbp&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="TVBNews" tvg-name="無綫新聞台" tvg-logo="https://content.stream-link.org/images/tvb_news.png" group-title="TVB",無綫新聞台
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb0958ensu&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="TVBPeral" tvg-name="Pearl(字幕粵語)" tvg-logo="https://content.stream-link.org/images/tvb_pearl.png" group-title="TVB",Pearl(粵語)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb6093rnqh&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="TVBPeral" tvg-name="Pearl(字幕原音)" tvg-logo="https://content.stream-link.org/images/tvb_pearl.png" group-title="TVB",Pearl(原音)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb3068nsdm&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="I-JADE" tvg-name="翡翠台.新加坡_粵語" tvg-logo="https://content.stream-link.org/images/tvb_jade_sg.png" group-title="TVB",翡翠台.新加坡_粵語(tvbanywhere)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb0005abwj&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="I-JADE" tvg-name="翡翠台.新加坡_國語" tvg-logo="https://content.stream-link.org/images/tvb_jade_sg.png" group-title="TVB",翡翠台.新加坡_國語(tvbanywhere)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb1127mvzp&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="I-STYLE" tvg-name="TVB生活台" tvg-logo="https://content.stream-link.org/images/tvbanywhere_style.png" group-title="TVB",TVB生活台(tvbanywhere)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb4874mtas&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="I-J-AUS" tvg-name="翡翠台.澳新時區" tvg-logo="https://content.stream-link.org/images/tvb_jade_aus.png" group-title="TVB",翡翠台.澳新(tvbanywhere)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb0124emmh&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="I-J-UK" tvg-name="翡翠台.英國時區" tvg-logo="https://content.stream-link.org/images/tvb_jade_uk.png" group-title="TVB",翡翠台.英國(tvbanywhere)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb4637prcs&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="I-NEWS" tvg-name="無綫新聞台" tvg-logo="https://content.stream-link.org/images/tvb_news.png" group-title="TVB",無綫新聞台(tvbanywhere)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb3901chqe&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="TVBUS1" tvg-name="翡翠1台" tvg-logo="https://content.stream-link.org/images/tvbus_1.png" group-title="TVB",翡翠1台(北美)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb0728wvdb&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="TVBUSJ1" tvg-name="翡翠綜合台J1" tvg-logo="https://content.stream-link.org/images/tvbus_j1.png" group-title="TVB",翡翠綜合台J1(北美)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb9132eptz&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="TVBUSDRAMA" tvg-name="翡翠劇集台" tvg-logo="https://content.stream-link.org/images/tvbus_drama.png" group-title="TVB",翡翠劇集台(北美)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb3298cqjn&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="TVBUSPearlDrama" tvg-name="明珠劇集台" tvg-logo="https://content.stream-link.org/images/tvbus_pearl_drama.png" group-title="TVB",明珠劇集台(北美)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb8903rqeq&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="TVBUSE" tvg-name="翡翠娛樂台" tvg-logo="https://content.stream-link.org/images/tvbus_e.png" group-title="TVB",翡翠娛樂台(北美)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb0105rdcw&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="nowNews" tvg-name="Now News" tvg-logo="https://content.stream-link.org/images/now_332.png" group-title="香港電視娛樂",now新聞台
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now0423bnhr&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="nowBusinessNewsChannel" tvg-name="Now Business News" tvg-logo="https://content.stream-link.org/images/now_333.png" group-title="香港電視娛樂",now財經台
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now5290mjgu&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTV six" tvg-logo="https://content.stream-link.org/images/viutv96.png" group-title="香港電視娛樂",ViuTV96
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now2469dcgt&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://content.stream-link.org/images/viutv99.png" group-title="香港電視娛樂",ViuTV99
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now1528gpgv&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="RTHKTV31" tvg-name="RTHKTV31" tvg-logo="https://content.stream-link.org/images/rthk_31.png" group-title="RTHK"",港台电视31
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=hkt8183vabg&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="RTHKTV32" tvg-name="RTHKTV32" tvg-logo="https://content.stream-link.org/images/rthk_32.png" group-title="RTHK",港台电视32
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=hkt9255tnwd&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="RTHKTV33" tvg-name="RTHKTV33" tvg-logo="https://content.stream-link.org/images/rthk_33.png" group-title="RTHK",港台电视33(CCTV 1)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=hkt8299ghrt&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="RTHKTV34" tvg-name="RTHKTV34" tvg-logo="https://content.stream-link.org/images/rthk_34.png" group-title="RTHK",港台电视34(CGTN Doc)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=hkt0799vdfj&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="RTHKTV35" tvg-name="RTHKTV35" tvg-logo="https://content.stream-link.org/images/rthk_35.png" group-title="RTHK",港台电视35(CGTN News)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=hkt7529sfnm&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="HOY76" tvg-name="HOY 76" tvg-logo="https://content.stream-link.org/images/hoy76.png" group-title="奇妙電視",76國際財經
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=hkt6515qjce&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY 77" tvg-logo="https://content.stream-link.org/images/hoy77.png" group-title="奇妙電視"",77開電視
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=hkt5752vrhk&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="HOY78" tvg-name="HOY 78" tvg-logo="https://content.stream-link.org/images/hoy78.png" group-title="奇妙電視",78資訊台
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=hkt1839nquw&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="CCTV1.tvb" tvg-name="中央綜合台" tvg-logo="https://content.stream-link.org/images/cctv_1.png" group-title="中國",中央綜合台
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn4696tfkv&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="CCTV4.now" tvg-name="中文國際台" tvg-logo="https://content.stream-link.org/images/cctv_4.png" group-title="中國",中文國際台
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn2443wssk&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="CCTV13.now" tvg-name="中央新聞台" tvg-logo="https://content.stream-link.org/images/cctv_13.png" group-title="中國",中央新聞台
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn3420dneq&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel" tvg-name="鳳凰衛視資訊台" tvg-logo="https://content.stream-link.org/images/phtv_info.png" group-title="鳳凰衛視",鳳凰衛視資訊台
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now0585czkn&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="PhoenixChineseChannel" tvg-name="鳳凰衛視中文台" tvg-logo="https://content.stream-link.org/images/phtv_live.png" group-title="鳳凰衛視",鳳凰衛視中文台
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now3131ukwf&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="PhoenixHongKongChannel" tvg-name="鳳凰衛視香港台" tvg-logo="https://content.stream-link.org/images/phtv_hk.png" group-title="鳳凰衛視",鳳凰衛視香港台
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now9611cpcz&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="ETTVAsiaNews.tw" tvg-name="東森亞洲新聞" tvg-logo="https://content.stream-link.org/images/now_371.png" group-title="香港電視娛樂",東森亞洲新聞
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now5504rehm&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="ETTVAsiaChannel.tw" tvg-name="東森亞洲衛視" tvg-logo="https://content.stream-link.org/images/now_162.png" group-title="香港電視娛樂",東森亞洲衛視
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now5828vcmp&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="Viu" tvg-name="viu劇集台" tvg-logo="https://content.stream-link.org/images/now_102.png" group-title="電影&劇集",viu劇集台
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now9346kdbe&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="nowChineseDramaChannel" tvg-name="now華劇台" tvg-logo="https://content.stream-link.org/images/now_105.png" group-title="電影&劇集",now華劇台
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now8423chbw&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="nowJelli" tvg-name="now紫金國際" tvg-logo="https://content.stream-link.org/images/now_108.png" group-title="電影&劇集",now紫金國際
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now9489pfej&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="nowBaoguMovies" tvg-name="now爆谷電影台" tvg-logo="https://content.stream-link.org/images/now_133.png" group-title="電影&劇集",now爆谷電影台
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now2327vvuk&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="nowBaoguSuperstars" tvg-name="now爆谷星影台" tvg-logo="https://content.stream-link.org/images/now_138.png" group-title="電影&劇集",now爆谷星影台
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now6252hwfb&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="MovieMovie.hk" tvg-name="Movie Movie" tvg-logo="https://content.stream-link.org/images/now_116.png" group-title="電影&劇集",Movie Movie
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now7131vcjd&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia" tvg-logo="https://content.stream-link.org/images/hbo.png" group-title="電影&劇集",HBO Asia
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now5837fkqe&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="HBOFamilyAsia.sg" tvg-name="HBO Family Asia" tvg-logo="https://content.stream-link.org/images/hbo_family.png" group-title="電影&劇集",HBO Family Asia
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now6536gdpw&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="HBOHitsAsia.sg" tvg-name="HBO Hits Asia" tvg-logo="https://content.stream-link.org/images/hbo_hits.png" group-title="電影&劇集",HBO Hits Asia
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now8993thwq&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="HBOSignatureAsia.sg" tvg-name="HBO Signature Asia" tvg-logo="https://content.stream-link.org/images/hbo_signature.png" group-title="電影&劇集",HBO Signature Asia
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now1844jemv&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" tvg-logo="https://content.stream-link.org/images/Cinemax.png" group-title="電影&劇集",Cinemax Asia
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=now3356fnft&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="MytvSuperFree" tvg-name="MytvSuper Free" tvg-logo="https://content.stream-link.org/images/mytvsuper.png" group-title="電影&劇集",MytvSuper Free
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb8352sgbw&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="AsianDrama" tvg-name="TVB亞洲劇台" tvg-logo="https://content.stream-link.org/images/tvb_87.png" group-title="電影&劇集",TVB亞洲劇台
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb4571pwvn&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="ChineseDrama" tvg-name="TVB華語劇台" tvg-logo="https://content.stream-link.org/images/tvb_88.png" group-title="電影&劇集",TVB華語劇台
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb6065urrb&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="MeiAhMovieChannel" tvg-name="美亞電影台(粵語)" tvg-logo="https://content.stream-link.org/images/tvb_201.png" group-title="電影&劇集",美亞電影台(粵語)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb7454usze&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="MeiAhMovieChannel" tvg-name="美亞電影台(國語)" tvg-logo="https://content.stream-link.org/images/tvb_201.png" group-title="電影&劇集",美亞電影台(國語)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb3847guqe&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="I-AACT" tvg-name="功夫台" tvg-logo="https://content.stream-link.org/images/kongfu.png" group-title="電影&劇集",功夫台
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb3200qfjp&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="POPC" tvg-name="POPC" tvg-logo="https://content.stream-link.org/images/tvb_206.png" group-title="電影&劇集",PopC
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=tvb3335damj&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="TVBXingHe.my" tvg-name="TVB星河台(粵語)" tvg-logo="https://content.stream-link.org/images/tvb_xing_he.png" group-title="電影&劇集",TVB星河台(粵語)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp8358dtgw&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="TVBXingHe.my" tvg-name="TVB星河台(國語)" tvg-logo="https://content.stream-link.org/images/tvb_xing_he.png" group-title="電影&劇集",TVB星河台(國語)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp1904pczb&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="TVBClassic" tvg-name="TVB千禧經典台" tvg-logo="https://content.stream-link.org/images/tvb_classic.png" group-title="電影&劇集",TVB千禧經典台
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp2320cwbj&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="CelestialMovies.my" tvg-name="Astro天映頻道(粵語)" tvg-logo="https://content.stream-link.org/images/astro_celestial_movies.png" group-title="電影&劇集",Astro天映頻道(粵語)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp7909qmhf&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="CelestialMovies.my" tvg-name="Astro天映頻道(國語)" tvg-logo="https://content.stream-link.org/images/astro_celestial_movies.png" group-title="電影&劇集",Astro天映頻道(國語)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp2099cqtd&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="CelestialMovies.sg" tvg-name="天映頻道(新加坡)" tvg-logo="https://content.stream-link.org/images/astro_celestial_movies.png" group-title="電影&劇集",天映頻道(新加坡)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp8216azkj&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="AstroHuaHeeDai" tvg-name="Astro Hua Hee Dai" tvg-logo="https://content.stream-link.org/images/Astro_Hua_Hee_Dai.png" group-title="電影&劇集",Astro Hua Hee Dai
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp2882qqvc&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="AstroiQIYI" tvg-name="Astro iQIYI" tvg-logo="https://content.stream-link.org/images/astro_iqiyi.png" group-title="電影&劇集",Astro iQIYI
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp9999cmpp&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://content.stream-link.org/images/8tv.png" group-title="電影&劇集",八度空間
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp9378pjmd&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="Channel5.sg" tvg-name="新加坡5頻道" tvg-logo="https://content.stream-link.org/images/channel_5.png" group-title="新加坡",新加坡5頻道
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp3329gkae&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="Channel8.sg" tvg-name="新加坡8頻道" tvg-logo="https://content.stream-link.org/images/channel_8.png" group-title="新加坡",新加坡8頻道
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp8258rcka&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="ChannelU.sg" tvg-name="新加坡U頻道" tvg-logo="https://content.stream-link.org/images/channel_u.png" group-title="新加坡",新加坡U頻道
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp7367tgbr&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="HubECity.sg" tvg-name="Hub都會" tvg-logo="https://content.stream-link.org/images/hub_e_city.png" group-title="新加坡",Hub都會
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp2390hvrf&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="HubVVDrama.sg" tvg-name="Hub娛家" tvg-logo="https://content.stream-link.org/images/hub_vv_drama.png" group-title="新加坡",Hub娛家
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp0664befp&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="StarMoviesHD.in" tvg-name="Star Movies" tvg-logo="https://content.stream-link.org/images/star_movies_hd.png" group-title="電影&劇集",Star Movies
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov4073pvgq&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name="Star Movies Select" tvg-logo="https://content.stream-link.org/images/star_movies_select.png" group-title="電影&劇集",Star Movies Select
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov0118tbfm&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="SONYPIXHD.in" tvg-name="Sony PIX HD" tvg-logo="https://content.stream-link.org/images/sony_pix_hd.png" group-title="電影&劇集",Sony PIX HD
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov6604hctz&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="ONE.sg" tvg-name="ONE" tvg-logo="https://content.stream-link.org/images/one.png" group-title="電影&劇集",one
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng6871tzgh&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="KBSWorld" tvg-name="KBS World" tvg-logo="https://content.stream-link.org/images/kbs_world.png" group-title="電影&劇集",KBS World
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng3636kudd&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="USANetworkEast.us" tvg-name="USA Network East" tvg-logo="https://content.stream-link.org/images/usa.png" group-title="電影&劇集",USA Network
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng6929fsgv&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="nowSportsPrime" tvg-name="Now Sports Prime" tvg-logo="https://content.stream-link.org/images/now_630.png" group-title="體育休閒",Now Sports Prime
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn6617jjeg&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="nowSports1.hk" tvg-name="Now Sports 1" tvg-logo="https://content.stream-link.org/images/now_631.png" group-title="體育休閒",Now Sports 1
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn6952hebc&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="nowSports2.hk" tvg-name="Now Sports 2" tvg-logo="https://content.stream-link.org/images/now_632.png" group-title="體育休閒",Now Sports 2
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn8014nemu&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="nowSports3.hk" tvg-name="Now Sports 3" tvg-logo="https://content.stream-link.org/images/now_633.png" group-title="體育休閒",Now Sports 3
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn5065hvjt&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="nowSportsPremierLeague1.hk" tvg-name="Now Premier League 1" tvg-logo="https://content.stream-link.org/images/now_621.png" group-title="體育休閒",Now Premier League 1
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn8302butm&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="nowSportsPremierLeague2.hk" tvg-name="Now Premier League 2" tvg-logo="https://content.stream-link.org/images/now_622.png" group-title="體育休閒",Now Premier League 2(賽事時開啟)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn5948mwec&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="nowSportsPremierLeague3.hk" tvg-name="Now Premier League 3" tvg-logo="https://content.stream-link.org/images/now_623.png" group-title="體育休閒",Now Premier League 3(賽事時開啟)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn1424cbcp&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="nowSportsPremierLeague4.hk" tvg-name="Now Premier League 4" tvg-logo="https://content.stream-link.org/images/now_624.png" group-title="體育休閒",Now Premier League 4(賽事時開啟)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn3686hqan&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="nowSportsPremierLeague5.hk" tvg-name="Now Premier League 5" tvg-logo="https://content.stream-link.org/images/now_625.png" group-title="體育休閒",Now Premier League 5(賽事時開啟)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=chn8930bdhs&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena" tvg-logo="https://content.stream-link.org/images/Astro_Arena.png" group-title="體育休閒",Astro Arena(馬來西亞🇲🇾)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt2340pcbe&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="AstroArena2" tvg-name="Astro Arena 2" tvg-logo="https://content.stream-link.org/images/Astro_Arena_2.png" group-title="體育休閒",Astro Arena 2(馬來西亞🇲🇾)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt8373zvrd&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="AstroBadminton" tvg-name="Astro Badminton" tvg-logo="https://content.stream-link.org/images/Astro_Badminton.png" group-title="體育休閒",Astro Badminton(馬來西亞🇲🇾)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt3308fwjn&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="AstroFootball" tvg-name="Astro Football" tvg-logo="https://content.stream-link.org/images/astro_football.png" group-title="體育休閒",Astro Football(馬來西亞🇲🇾)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt9877dwce&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="AstroSportsPlus" tvg-name="Astro Sports Plus" tvg-logo="https://content.stream-link.org/images/astro_sports_plus.png" group-title="體育休閒",Astro Sports Plus(馬來西亞🇲🇾)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt5811sqvj&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="beINSports" tvg-name="beINSports" tvg-logo="https://content.stream-link.org/images/bein_sports.png" group-title="體育休閒",beIN SPORTS(馬來西亞🇲🇾)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt9952hqft&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="beINSports2" tvg-name="beINSports2" tvg-logo="https://content.stream-link.org/images/bein_sports2.png" group-title="體育休閒",beIN SPORTS 2(馬來西亞🇲🇾)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt9489rseg&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="beINSports3" tvg-name="beINSports3" tvg-logo="https://content.stream-link.org/images/bein_sports3.png" group-title="體育休閒",beIN SPORTS 3(馬來西亞🇲🇾)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt0612rcwr&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="AstroSPOTV" tvg-name="Astro SPOTV" tvg-logo="https://content.stream-link.org/images/astro_spotv.png" group-title="體育休閒",SPOTV(馬來西亞🇲🇾)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt1284zwbs&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="AstroSPOTV2" tvg-name="Astro SPOTV2" tvg-logo="https://content.stream-link.org/images/astro_spotv2.png" group-title="體育休閒",SPOTV 2(馬來西亞🇲🇾)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt0826trfd&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="beINSPORTSXTRA" tvg-name="beINSPORTSXTRA" tvg-logo="https://content.stream-link.org/images/bein_sports_xtra.png" group-title="體育休閒",beIN SPORTS XTRA(美國🇺🇸)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt2311fmfz&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="http://content.stream-link.org/images/tennis_channel.png" group-title="體育休閒",Tennis Channel(美國🇺🇸)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt1832hsrs&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="Unbeaten" tvg-name="Unbeaten" tvg-logo="https://content.stream-link.org/images/unbeaten.png" group-title="體育休閒",Unbeaten(美國🇺🇸)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt9101vhhn&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport1 FR" tvg-logo="https://content.stream-link.org/images/eurosport1.png" group-title="體育休閒",Eurosport 1(法國🇫🇷)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt0995awpg&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport2 FR" tvg-logo="https://content.stream-link.org/images/eurosport2.png" group-title="體育休閒",Eurosport 2(法國🇫🇷)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt3846qsat&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="Eurosport1 IT" tvg-logo="https://content.stream-link.org/images/eurosport1.png" group-title="體育休閒",Eurosport 1(意大利🇮🇹)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt2913ufmw&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="Eurosport2 IT" tvg-logo="https://content.stream-link.org/images/eurosport2.png" group-title="體育休閒",Eurosport 2(意大利🇮🇹)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt4582mhra&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="Eurosport1HD.uk" tvg-name="Eurosport1 UK" tvg-logo="https://content.stream-link.org/images/eurosport1.png" group-title="體育休閒",Eurosport 1(英國🇬🇧)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt6057mmgq&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="Eurosport2HD.uk" tvg-name="Eurosport2 UK" tvg-logo="https://content.stream-link.org/images/eurosport2.png" group-title="體育休閒",Eurosport 2(英國🇬🇧)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt1370vruw&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="nowSportsPremierLeagueTV.hk" tvg-name="Peacock Premier League TV" tvg-logo="https://content.stream-link.org/images/premier_league_tv.png" group-title="體育休閒",Peacock Premier League TV
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt1108tbsk&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="HubPremier1.sg" tvg-name="HubPremier1" tvg-logo="https://content.stream-link.org/images/hub_premier1.png" group-title="體育休閒",Hub Premier 1(新加坡🇸🇬)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt3151uabz&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="HubSports1.sg" tvg-name="HubSports1" tvg-logo="https://content.stream-link.org/images/hub_sports1.png" group-title="體育休閒",Hub Sports 1(新加坡🇸🇬)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt3518bsjd&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="HubSports2.sg" tvg-name="HubSports2" tvg-logo="https://content.stream-link.org/images/hub_sports2.png" group-title="體育休閒",Hub Sports 2(新加坡🇸🇬)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=spt5063atdj&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena IT" tvg-logo="https://content.stream-link.org/images/sky_sport_arena.png" group-title="體育休閒",Sky Sport Arena(意大利🇮🇹)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky8926rvvw&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="Sky Sport Calcio IT" tvg-logo="https://content.stream-link.org/images/sky_sport_calcio.png" group-title="體育休閒",Sky Sport Calcio(意大利🇮🇹)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky2296knak&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 IT" tvg-logo="https://content.stream-link.org/images/sky_sport_f1.png" group-title="體育休閒",Sky Sport F1(意大利🇮🇹)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky3785qbfd&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="SkySportGolf.it" tvg-name="Sky Sport Golf IT" tvg-logo="https://content.stream-link.org/images/sky_sport_golf.png" group-title="體育休閒",Sky Sport Golf(意大利🇮🇹)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky2853pnfp&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="SkySportMax.it" tvg-name="Sky Sport Max IT" tvg-logo="https://content.stream-link.org/images/sky_sport_max.png" group-title="體育休閒",Sky Sport Max(意大利🇮🇹)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky0791qjkc&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport MotoGP IT" tvg-logo="https://content.stream-link.org/images/sky_sport_motogp.png" group-title="體育休閒",Sky Sport MotoGP(意大利🇮🇹)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky6003qtmq&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="Sky Sport NBA IT" tvg-logo="https://content.stream-link.org/images/sky_sport_nba.png" group-title="體育休閒",Sky Sport NBA(意大利🇮🇹)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky4197mdfu&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="SkySportTennis.it" tvg-name="Sky Sport Tennis IT" tvg-logo="https://content.stream-link.org/images/sky_sport_tennis.png" group-title="體育休閒",Sky Sport Tennis(意大利🇮🇹)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky6796cwcr&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="Sky Sport Uno IT" tvg-logo="https://content.stream-link.org/images/sky_sport_uno.png" group-title="體育休閒",Sky Sport Uno(意大利🇮🇹)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky9060ewrs&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="Sky Sport 24 IT" tvg-logo="https://content.stream-link.org/images/sky_sport_24.png" group-title="體育休閒",Sky Sport 24(意大利🇮🇹)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky2188dner&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="SkySportMixHD.de" tvg-name="Sky Sport Mix DE" tvg-logo="https://content.stream-link.org/images/sky_sport_mix.png" group-title="體育休閒",Sky Sport Mix(德國🇩🇪)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky3972qvnt&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="Sky Sport News DE" tvg-logo="https://content.stream-link.org/images/sky_sport_news.png" group-title="體育休閒",Sky Sport News(德國🇩🇪)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky5484brqp&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="SkySportPremierLeagueHD.de" tvg-name="Sky Sport PremierLeague DE" tvg-logo="https://content.stream-link.org/images/sky_sport_premier_league_de.png" group-title="體育休閒",Sky Sport Premier League(德國🇩🇪)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky2024muuh&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="SkySportTopEventHD.de" tvg-name="Sky Sport Top Event DE" tvg-logo="https://content.stream-link.org/images/sky_sport_top_event.png" group-title="體育休閒",Sky Sport Top Event(德國🇩🇪)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky5407wfuw&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="TNTSports1HD" tvg-name="TNTSports1" tvg-logo="https://content.stream-link.org/images/tnt_sports1.png" group-title="體育休閒",TNT Sports 1(英國🇬🇧)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky0413eckd&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="TNTSports2HD" tvg-name="TNTSports2" tvg-logo="https://content.stream-link.org/images/tnt_sports2.png" group-title="體育休閒",TNT Sports 2(英國🇬🇧)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky5774rqbr&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="TNTSports3HD" tvg-name="TNTSports3" tvg-logo="https://content.stream-link.org/images/tnt_sports3.png" group-title="體育休閒",TNT Sports 3(英國🇬🇧)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky9189mqge&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="TNTSports4HD" tvg-name="TNTSports4" tvg-logo="https://content.stream-link.org/images/tnt_sports4.png" group-title="體育休閒",TNT Sports 4(英國🇬🇧)
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sky3402bjkg&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="HandsUpChannel" tvg-name="TVB兒童台" tvg-logo="https://content.stream-link.org/images/tvb_100.png" group-title="兒童頻道",TVB兒童台
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov1707rwmg&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="EttvYoYo" tvg-name="東森幼幼" tvg-logo="https://content.stream-link.org/images/ettv_yoyo.png" group-title="兒童頻道",東森幼幼
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov2912jfbj&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="CartoonNetworkAsia" tvg-name="動畫世界頻道" tvg-logo="https://content.stream-link.org/images/cartoon_network.png" group-title="兒童頻道",動畫世界頻道
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov4866gcrg&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="NickelodeonAsia" tvg-name="尼克兒童頻道" tvg-logo="https://content.stream-link.org/images/nickelodeon.png" group-title="兒童頻道",尼克兒童頻道
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov8164hrqm&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="NickJrAsia" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://content.stream-link.org/images/nickjr.png" group-title="兒童頻道", Nick Jr. 兒童頻道
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov4989jsnr&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="4gtv-live017" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://content.stream-link.org/images/dreamworks.png" group-title="兒童頻道",Dream Works夢工廠動畫
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov0068epeb&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="4gtv-live107" tvg-name="MOMO親子台" tvg-logo="https://content.stream-link.org/images/4gtv_live107.png" group-title="兒童頻道",MOMO親子台
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov2444fkwh&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-name="CBeebies Asia" tvg-logo="http://content.stream-link.org/images/cbeebies.png" group-title="兒童頻道",CBeebies Asia
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov2395gsmm&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="MoonbugKids" tvg-name="Moonbug" tvg-logo="https://content.stream-link.org/images/moonbug.png" group-title="兒童頻道",Moonbug
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov9219wtrg&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="4gtv-4gtv018" tvg-name="達文西頻道" tvg-logo="https://content.stream-link.org/images/4gtv_4gtv018.png" group-title="兒童頻道",達文西頻道
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov7713zcdg&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="litv-longturn20" tvg-name="ELTV生活英語台" tvg-logo="https://content.stream-link.org/images/longturn20.png" group-title="兒童頻道",ELTV生活英語台
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov4760ssqq&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="4gtv-live030" tvg-name="Live ABC 互動英語頻道" tvg-logo="https://content.stream-link.org/images/4gtv_live030.png" group-title="兒童頻道",Live ABC 互動英語頻道
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov8038bgjq&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="4gtv-live120" tvg-name="愛爾達生活旅遊台" tvg-logo="https://content.stream-link.org/images/4gtv_live120.png" group-title="休閒&記錄",愛爾達生活旅遊台
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov2855ccqq&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="4gtv-4gtv076" tvg-name="亞洲旅遊台" tvg-logo="https://content.stream-link.org/images/asia_travel.png" group-title="休閒&記錄",亞洲旅遊台
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov0815pkck&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="4gtv-live112" tvg-name="Global Trekker" tvg-logo="https://content.stream-link.org/images/global_trekker.png" group-title="休閒&記錄",Global Trekker探索世界
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov4441hjwn&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="4gtv-live029" tvg-name="Lifetime" tvg-logo="http://content.stream-link.org/images/4gtv_live029.png" group-title="休閒&記錄",Lifetime
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov7189tubd&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="4gtv-live025" tvg-name="MTV Live" tvg-logo="https://content.stream-link.org/images/4gtv_025.png" group-title="休閒&記錄",MTV Live
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov9146fuwh&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="4gtv-live026" tvg-name="History歷史頻道" tvg-logo="https://content.stream-link.org/images/4gtv_026.png" group-title="休閒&記錄",History歷史頻道
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov9266bphz&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="4gtv-live027" tvg-name="CI 罪案偵查頻道" tvg-logo="http://content.stream-link.org/images/4gtv_027.png" group-title="休閒&記錄",CI 罪案偵查頻道
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov8851qfrm&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="4gtv-live206" tvg-name="幸福空間居家台" tvg-logo="https://content.stream-link.org/images/4gtv_live206.png" group-title="休閒&記錄",幸福空間居家台
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov4308hkhq&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="4gtv-live208" tvg-name="Love Nature" tvg-logo="https://content.stream-link.org/images/4gtv_live208.png" group-title="休閒&記錄",Love Nature
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov8382hves&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="AnimalPlanetSoutheastAsia.sg" tvg-name="動物星球" tvg-logo="https://content.stream-link.org/images/animal_planet.png" group-title="休閒&記錄",動物星球
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng4515kehn&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="AnimalPlanetHD.in" tvg-name="AnimalPlanet HD" tvg-logo="https://content.stream-link.org/images/animal_planet_hd.png" group-title="休閒&記錄",AnimalPlanet HD
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng3963gefs&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="DiscoveryHDWorld.in" tvg-name="Discovery Channel HD" tvg-logo="https://content.stream-link.org/images/discovery_channel_hd.png" group-title="休閒&記錄",Discovery Channel HD
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng4252bstd&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="NatGeoWildHD.in" tvg-name="NatGeo Wild HD" tvg-logo="https://content.stream-link.org/images/nat_geo_wild.png" group-title="休閒&記錄",NatGeo Wild HD
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng8661rfvu&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="NationalGeographicHD.in" tvg-name="National Geographic HD" tvg-logo="https://content.stream-link.org/images/nat_geo_hd.png" group-title="休閒&記錄",National Geographic HD
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng5358kmfr&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="SONYBBCEarthHD.in" tvg-name="Sony BBC Earth HD" tvg-logo="https://content.stream-link.org/images/sony_bbc_earth.png" group-title="休閒&記錄",Sony BBC Earth HD
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng7272qcjd&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="StarLifeHD.in" tvg-name="Star Life HD" tvg-logo="https://content.stream-link.org/images/star_life_hd.png" group-title="休閒&記錄",Star Life HD
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng2781jehf&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="TravelXPHD.in" tvg-name="TravelXP HD" tvg-logo="https://content.stream-link.org/images/travelxp_hd.png" group-title="休閒&記錄",TravelXP HD
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng5152zwpn&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="TLCHD.in" tvg-name="TLC HD" tvg-logo="https://content.stream-link.org/images/tlc_hd.png" group-title="休閒&記錄",TLC HD
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng0108rwpe&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="Asian Food Network" tvg-logo="https://content.stream-link.org/images/afn.png" group-title="休閒&記錄",Asian Food Network
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng5258jadg&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="BBCEarthAsia.uk" tvg-name="BBC Earth Asia" tvg-logo="https://content.stream-link.org/images/bbc_earth.png" group-title="休閒&記錄",BBC Earth Asia
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng7046dvht&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="BBCLifestyleAsia.uk" tvg-name="BBC Lifestyle Asia" tvg-logo="https://content.stream-link.org/images/bbc_lifestyle.png" group-title="休閒&記錄",BBC Lifestyle Asia
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng0029tacn&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="DiscoveryAsia.sg" tvg-name="Discovery Asia" tvg-logo="https://content.stream-link.org/images/discovery_asia.png" group-title="休閒&記錄",Discovery Asia
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng6723jasz&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="DiscoveryScienceSoutheastAsia.sg" tvg-name="Discovery Science Asia" tvg-logo="https://content.stream-link.org/images/discovery_science.png" group-title="休閒&記錄",Discovery Science Asia
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng3094zngc&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" tvg-name="DMAX Asia" tvg-logo="https://content.stream-link.org/images/discovery_dmax.png" group-title="休閒&記錄",DMAX Asia
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng3190jtte&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="TravelChannel" tvg-name="Travel Channel Asia" tvg-logo="https://content.stream-link.org/images/travel_channel.png" group-title="休閒&記錄",Travel Channel Asia
+https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng1399vtfg&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b

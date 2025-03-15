@@ -149,6 +149,18 @@ https://sc2025.stream-link.org/playlist/f72a42270201.php?id=mov9265sghs&token=e7
 https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng8471efvd&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
 #EXTINF:-1 tvg-id="KBSWorld" tvg-name="KBS World" tvg-logo="https://content.stream-link.org/images/kbs_world.png" group-title="電影&劇集",KBS World
 https://sc2025.stream-link.org/playlist/f72a42270201.php?id=eng9052ggrm&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
+#EXTINF:-1 tvg-id="HBOEast.us" tvg-name="HBO East" tvg-logo="https://content.stream-link.org/images/hbo_east.png" group-title="測試",HBO East(軟字幕測試)
+https://sub.2025link.site/tvh/1095781837
+#EXTINF:-1 tvg-id="HBO2East.us" tvg-name="HBO2 East" tvg-logo="https://content.stream-link.org/images/hbo2_east.png" group-title="測試",HBO2 East(軟字幕測試)
+https://sub.2025link.site/tvh/1635509307
+#EXTINF:-1 tvg-id="HBOComedyEast.us" tvg-name="HBO Comedy East" tvg-logo="https://content.stream-link.org/images/hbo_comedy_east.png" group-title="測試",HBO Comedy East(軟字幕測試)
+https://sub.2025link.site/tvh/781668279
+#EXTINF:-1 tvg-id="HBOHBOFamilyEast.us" tvg-name="HBO Family East" tvg-logo="https://content.stream-link.org/images/hbo_family_east.png" group-title="測試",HBO Family East(軟字幕測試)
+https://sub.2025link.site/tvh/199391425
+#EXTINF:-1 tvg-id="HBOSignatureEast.us" tvg-name="HBO Signature East" tvg-logo="https://content.stream-link.org/images/hbo_signature_east.png" group-title="測試",HBO Signature East(軟字幕測試)
+https://sub.2025link.site/tvh/1475032314
+#EXTINF:-1 tvg-id="HBOZoneEast.us" tvg-name="HBO Zone East" tvg-logo="https://content.stream-link.org/images/hbo_zone_east.png" group-title="測試",HBO Zone East(軟字幕測試)
+https://sub.2025link.site/tvh/759135645
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-name="TNT East" tvg-logo="https://content.stream-link.org/images/tnt_east.png" group-title="測試",TNT East(多聲道+軟字幕)
 https://sub.2025link.site/tvh/2125878239
 #EXTINF:-1 tvg-id="USANetworkEast.us" tvg-name="USA Network East" tvg-logo="https://content.stream-link.org/images/usa.png" group-title="測試",USA Network(多聲道+軟字幕)

@@ -95,6 +95,12 @@ Hub都會,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp5306pjb
 Hub娛家,https://sc2025.stream-link.org/playlist/f72a42270201.php?id=sgp8870uucm&token=e791cb61-c75c-4eae-bf4a-f60b73a1aaf3&hmac=3445ba3bf254b7aa27cc23df0705bb2b
 
 測試,#genre#
+HBO_East(軟字幕測試),https://sub.2025link.site/tvh/1095781837
+HBO2_East(軟字幕測試),https://sub.2025link.site/tvh/1635509307
+HBO_Comedy_East(軟字幕測試),https://sub.2025link.site/tvh/781668279
+HBO_Family_East(軟字幕測試),https://sub.2025link.site/tvh/199391425
+HBO_Signature_East(軟字幕測試),https://sub.2025link.site/tvh/1475032314
+HBO_Zone_East(軟字幕測試),https://sub.2025link.site/tvh/759135645
 TNT_East(多聲道+軟字幕),https://sub.2025link.site/tvh/2125878239
 USA_Network(多聲道+軟字幕),https://sub.2025link.site/tvh/1800432719
 

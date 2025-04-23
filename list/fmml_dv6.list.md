@@ -1,6 +1,6 @@
-# List for **YanG-1989 Gather**
+# List for **fanmingming/live domainv6(Invalid)**
 
-> M3U: [y_g.m3u](/y_g.m3u), TXT: [y_g.txt](/txt/y_g.txt)
+> M3U: [fmml_dv6.m3u](/fmml_dv6.m3u), TXT: [fmml_dv6.txt](/txt/fmml_dv6.txt)
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |

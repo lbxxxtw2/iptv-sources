@@ -1,6 +1,6 @@
-# List for **joevess/IPTV iptv**
+# List for **fanmingming/live domainv6(Invalid)**
 
-> M3U: [j_iptv.m3u](/j_iptv.m3u), TXT: [j_iptv.txt](/txt/j_iptv.txt)
+> M3U: [fmml_dv6.m3u](/fmml_dv6.m3u), TXT: [fmml_dv6.txt](/txt/fmml_dv6.txt)
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |

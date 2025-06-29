@@ -27042,6 +27042,9 @@
 	<programme channel="咪咕综合体育" start="20250629120000 +0800" stop="20250629123000 +0800">
 		<title lang="zh">国球荣耀-WTT常规挑战赛斯科普里站 女单决赛 袁嘉楠-范姝涵</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250629123000 +0800" stop="20250629132000 +0800">
+		<title lang="zh">国球荣耀-WTT常规挑战赛斯科普里站 男单决赛 温瑞博-杜达</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -27083,6 +27086,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250629112000 +0800" stop="20250629124000 +0800">
 		<title lang="zh">村BA</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250629124000 +0800" stop="20250629125000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -66669,6 +66675,9 @@
 	<programme channel="纯享4K" start="20250629113500 +0800" stop="20250629121700 +0800">
 		<title lang="zh">远方的家4K 秘境之旅 别样的旷野之美</title>
 	</programme>
+	<programme channel="纯享4K" start="20250629121700 +0800" stop="20250629125900 +0800">
+		<title lang="zh">远方的家4K 秘境之旅 高山绿洲 生态家园</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -84339,6 +84348,9 @@
 	<programme channel="newtv超级电视剧" start="20250629114300 +0800" stop="20250629122700 +0800">
 		<title lang="zh">14_婚内婚外</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250629122700 +0800" stop="20250629131100 +0800">
+		<title lang="zh">15_婚内婚外</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -84915,6 +84927,9 @@
 	<programme channel="newtv炫舞未来" start="20250629111200 +0800" stop="20250629122900 +0800">
 		<title lang="zh">李琳 涓子荧屏重聚 好闺密被称“共用一张脸”（20250201）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250629122900 +0800" stop="20250629131800 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -85010,6 +85025,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250629104700 +0800" stop="20250629114200 +0800">
 		<title lang="zh">勇者之战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250629123200 +0800" stop="20250629131900 +0800">
+		<title lang="zh">美国进口RN鱼油酸神经酸-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250629114200 +0800" stop="20250629123200 +0800">
+		<title lang="zh">勇者之战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250629123200 +0800" stop="20250629131900 +0800">
+		<title lang="zh">美国进口RN鱼油酸神经酸-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>

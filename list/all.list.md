@@ -1990,4 +1990,4 @@
 | 1984 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c18a68c08db26e594330015d8ba2b4db254e993bdf7ce3e5dfb9c920038ed8a5.m3u8> |
 | 1985 | [HD]龙华电影 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/2bc092eff9c5b52593e4fedefd7dadb3692cab8cadb25dba0947c4eae55bb450.ctv> |
 
-Updated at **Thu Jul 24 2025 20:21:49 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 24 2025 21:20:20 GMT+0000 (Coordinated Universal Time)**

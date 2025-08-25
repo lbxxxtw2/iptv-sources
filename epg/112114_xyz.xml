@@ -15291,9 +15291,6 @@
 	<programme channel="咪咕足球" start="20250826052500 +0800" stop="20250826053500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
-	<programme channel="咪咕足球" start="20250826053500 +0800" stop="20250826070500 +0800">
-		<title lang="zh">我爱女篮-24/25WCBA常规赛第8轮 黑龙江上东-武汉盛帆黄鹤</title>
-	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -46698,9 +46695,6 @@
 	<programme channel="newtv超级体育" start="20250826053000 +0800" stop="20250826060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 中国站 2</title>
 	</programme>
-	<programme channel="newtv超级体育" start="20250826060000 +0800" stop="20250826063000 +0800">
-		<title lang="zh">实况录像-2025年世界泳联花样游泳世界杯 加拿大站 2</title>
-	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -46767,9 +46761,6 @@
 	<programme channel="newtv精品大剧" start="20250826050600 +0800" stop="20250826055100 +0800">
 		<title lang="zh">12_画眉</title>
 	</programme>
-	<programme channel="newtv精品大剧" start="20250826055100 +0800" stop="20250826063700 +0800">
-		<title lang="zh">13_画眉</title>
-	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -46793,9 +46784,6 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250826045800 +0800" stop="20250826054800 +0800">
 		<title lang="zh">05_深 赋能</title>
-	</programme>
-	<programme channel="newtv精品纪录" start="20250826054800 +0800" stop="20250826063800 +0800">
-		<title lang="zh">06_创 未来</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -46848,9 +46836,6 @@
 	<programme channel="newtv军旅剧场" start="20250826050200 +0800" stop="20250826054500 +0800">
 		<title lang="zh">10_秋蝉</title>
 	</programme>
-	<programme channel="newtv军旅剧场" start="20250826054500 +0800" stop="20250826063300 +0800">
-		<title lang="zh">AMOS钛多功能电饭煲惠选款（新）-渠道（右）</title>
-	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -46874,9 +46859,6 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250826051100 +0800" stop="20250826055700 +0800">
 		<title lang="zh">36_幸福来敲门</title>
-	</programme>
-	<programme channel="newtv家庭剧场" start="20250826055700 +0800" stop="20250826064500 +0800">
-		<title lang="zh">英国奥戈那负离子空气循环扇-渠道（右）</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -46920,9 +46902,6 @@
 	<programme channel="newtv爱情喜剧" start="20250826045700 +0800" stop="20250826054300 +0800">
 		<title lang="zh">22_蔷薇风暴</title>
 	</programme>
-	<programme channel="newtv爱情喜剧" start="20250826054300 +0800" stop="20250826070900 +0800">
-		<title lang="zh">终极硬汉</title>
-	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -46964,9 +46943,6 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250826041100 +0800" stop="20250826054800 +0800">
 		<title lang="zh">根本停不下来</title>
-	</programme>
-	<programme channel="newtv怡伴健康" start="20250826054800 +0800" stop="20250826063600 +0800">
-		<title lang="zh">Healthwow100%南极磷虾油高吸收尊贵组-渠道（右）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -47015,9 +46991,6 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250826051800 +0800" stop="20250826054200 +0800">
 		<title lang="zh">美国坦克“神话”破灭 波罗的海恐成“北约湖” 德军向美军机开火</title>
-	</programme>
-	<programme channel="newtv军事评论" start="20250826054200 +0800" stop="20250826060800 +0800">
-		<title lang="zh">美求助日韩重振造船业 B-52携高超音速导弹现身关岛</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -47171,9 +47144,6 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250826051100 +0800" stop="20250826054600 +0800">
 		<title lang="zh">拳王争霸赛：阿里姆哈努利VS米哈伊洛维奇</title>
-	</programme>
-	<programme channel="newtv中国功夫" start="20250826054600 +0800" stop="20250826061300 +0800">
-		<title lang="zh">拳王争霸赛：桑迪b7瑞安VS米凯拉b7马耶尔</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>

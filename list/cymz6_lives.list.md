@@ -261,4 +261,4 @@
 | 255 | 风云音乐 | IPv4 直链 | <http://113.195.7.46:9901/tsfile/live/1106_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 256 | 高尔夫 | IPv4 直链 | <http://113.195.7.46:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Sat Sep 13 2025 22:15:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Sep 13 2025 23:15:25 GMT+0000 (Coordinated Universal Time)**

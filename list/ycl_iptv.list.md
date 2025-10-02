@@ -135,4 +135,4 @@
 | 129 | HOY TV | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=hoytv> |
 | 130 | 亚洲卫视 | fenghuang.tv12.xyz | <https://fenghuang.tv12.xyz/173.m3u8> |
 
-Updated at **Thu Oct 02 2025 06:28:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 02 2025 07:17:32 GMT+0000 (Coordinated Universal Time)**

@@ -44219,9 +44219,6 @@
 	<programme channel="明星大片" start="20251104152100 +0800" stop="20251104155100 +0800">
 		<title lang="zh">美丽人生</title>
 	</programme>
-	<programme channel="明星大片" start="20251104155100 +0800" stop="20251104163600 +0800">
-		<title lang="zh">18_我的妈妈是天使</title>
-	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -68225,9 +68222,6 @@
 	<programme channel="纯享4K" start="20251104145600 +0800" stop="20251104154900 +0800">
 		<title lang="zh">乘火车看中国4K 第一集 开放之路</title>
 	</programme>
-	<programme channel="纯享4K" start="20251104154900 +0800" stop="20251104161700 +0800">
-		<title lang="zh">记住乡愁4K第九季 安吉——山水永续 安且吉兮</title>
-	</programme>
 	<channel id="绍兴新闻综合">
 		<display-name lang="zh">绍兴新闻综合</display-name>
 	</channel>
@@ -84569,9 +84563,6 @@
 	<programme channel="黑莓动画" start="20251104132000 +0800" stop="20251104155100 +0800">
 		<title lang="zh">11_猪猪侠之光明守卫者（上部）</title>
 	</programme>
-	<programme channel="黑莓动画" start="20251104155100 +0800" stop="20251104163700 +0800">
-		<title lang="zh">06_奶龙之奇妙冒险</title>
-	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -85799,9 +85790,6 @@
 	<programme channel="newtv精品纪录" start="20251104152400 +0800" stop="20251104155800 +0800">
 		<title lang="zh">第1集：乐山，乐得自在</title>
 	</programme>
-	<programme channel="newtv精品纪录" start="20251104155800 +0800" stop="20251104162600 +0800">
-		<title lang="zh">第2集：西双版纳，自由生长</title>
-	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -85951,9 +85939,6 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251104151900 +0800" stop="20251104154800 +0800">
 		<title lang="zh">美丽人生</title>
-	</programme>
-	<programme channel="newtv军旅剧场" start="20251104154800 +0800" stop="20251104163400 +0800">
-		<title lang="zh">41_功勋</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -86105,9 +86090,6 @@
 	<programme channel="newtv热播精选" start="20251104150800 +0800" stop="20251104155100 +0800">
 		<title lang="zh">22_前夜</title>
 	</programme>
-	<programme channel="newtv热播精选" start="20251104155100 +0800" stop="20251104162000 +0800">
-		<title lang="zh">武夷山康养</title>
-	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -86224,9 +86206,6 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251104141500 +0800" stop="20251104154600 +0800">
 		<title lang="zh">举起手来2：追击阿多丸号</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20251104154600 +0800" stop="20251104161600 +0800">
-		<title lang="zh">健康推荐</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -86374,9 +86353,6 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251104150700 +0800" stop="20251104155200 +0800">
 		<title lang="zh">06_加油！妈妈</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20251104155200 +0800" stop="20251104162100 +0800">
-		<title lang="zh">武夷山康养</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -86635,9 +86611,6 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251104152100 +0800" stop="20251104155100 +0800">
 		<title lang="zh">美丽人生</title>
-	</programme>
-	<programme channel="newtv精品综合" start="20251104155100 +0800" stop="20251104163600 +0800">
-		<title lang="zh">18_我的妈妈是天使</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>

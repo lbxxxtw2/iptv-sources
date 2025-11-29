@@ -11,4 +11,4 @@
 | 5 | 厦门卫视 | IPv4 直链 | <http://125.42.151.128:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 6 | 湖南卫视 | IPv4 直链 | <http://125.42.151.128:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sat Nov 29 2025 22:18:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Nov 29 2025 23:18:22 GMT+0000 (Coordinated Universal Time)**

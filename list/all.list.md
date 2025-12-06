@@ -530,7 +530,7 @@
 | 524 | [HD]hbo *sm | stream1.freetv.fun | <https://stream1.freetv.fun/b8b065b6a15c69ac9a3af8254ce01fa6073c34bcd2e033fec9a5622e3b369cd1.ctv> |
 | 525 | [BD]hgtv *m | stream1.freetv.fun | <https://stream1.freetv.fun/0c54e7322a57d531a0ac9f9a7c18f5229016c58bfaa6cbe87cf170f8797bbd4f.ctv> |
 | 526 | [HD]hgtv | stream1.freetv.fun | <https://stream1.freetv.fun/216474e80e35b2ba8436cc747cf54e7c43110bd6fd8d425d3f37b7c76f01365e.ctv> |
-| 527 | [HD]hits movie | stream1.freetv.fun | <https://stream1.freetv.fun/8af9acdd62846328c94810b47979226b77147c8f50b7a5ef4dbfdb4d6bdaff37.ctv> |
+| 527 | [HD]hits movie *sm | stream1.freetv.fun | <https://stream1.freetv.fun/a8eae8d32f1fff3b3bdc82e49afa7f4df2879f85e3779d69f46a58725e9ba24c.ctv> |
 | 528 | [BD]hoy tv | stream1.freetv.fun | <https://stream1.freetv.fun/fffa9b4b6a4539df195d4b8c1828935463fe5defab455f29605724faab3716f9.ctv> |
 | 529 | [HD]sr fernsehen | stream1.freetv.fun | <https://stream1.freetv.fun/9d4debcb15a1ecfdbf05644c57aaf7ae2a4fc2c612609850b80d04a7a16f84f6.m3u8> |
 | 530 | [BD]htv3 | stream1.freetv.fun | <https://stream1.freetv.fun/b55201479fc6cb84c81fe3258f92ae61cad63497eadfba48155caa8766b9988d.ctv> |
@@ -1637,4 +1637,4 @@
 | 1631 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv> |
 | 1632 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/0e3435ff2d9cac143a75ae6ccb680753bbd31c341d6b7410b3ff8d1e177a3a5e.m3u8> |
 
-Updated at **Sat Dec 06 2025 22:18:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Dec 06 2025 23:18:16 GMT+0000 (Coordinated Universal Time)**

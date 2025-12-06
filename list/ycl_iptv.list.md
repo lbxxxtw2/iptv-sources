@@ -6,4 +6,4 @@
 | --- | ------------ | ---- | ------ |
 | 1 | 賬號不存在/Account not exist | error.stream-link.org | <https://error.stream-link.org/code/tg_403> |
 
-Updated at **Sat Dec 06 2025 06:28:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Dec 06 2025 07:18:16 GMT+0000 (Coordinated Universal Time)**

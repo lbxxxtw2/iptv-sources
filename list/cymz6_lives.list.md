@@ -10,4 +10,4 @@
 | 4 | CCTV14 | IPv4 直链 | <http://125.42.148.146:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 5 | 江苏卫视 | IPv4 直链 | <http://125.42.148.146:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sun Dec 07 2025 22:18:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Dec 07 2025 23:17:44 GMT+0000 (Coordinated Universal Time)**

@@ -4,6 +4,6 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | 賬號不存在/Account not exist | error.stream-link.org | <https://error.stream-link.org/code/tg_403> |
+| 1 | 系統維護(稍後刷新) | error.stream-link.org | <https://error.stream-link.org/code/tg_500> |
 
-Updated at **Fri Dec 19 2025 19:16:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Dec 19 2025 20:23:29 GMT+0000 (Coordinated Universal Time)**

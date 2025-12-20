@@ -6,4 +6,4 @@
 | --- | ------------ | ---- | ------ |
 | 1 | 系統維護(稍後刷新) | error.stream-link.org | <https://error.stream-link.org/code/tg_500> |
 
-Updated at **Sat Dec 20 2025 06:31:29 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Dec 20 2025 07:18:14 GMT+0000 (Coordinated Universal Time)**

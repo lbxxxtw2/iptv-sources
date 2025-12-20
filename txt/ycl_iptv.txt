@@ -1,2 +1,2 @@
-500,#genre#
-系統維護(稍後刷新),https://error.stream-link.org/code/tg_500
+403,#genre#
+賬號不存在/Account_not_exist,https://error.stream-link.org/code/tg_403
